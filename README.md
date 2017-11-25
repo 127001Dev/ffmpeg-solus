@@ -1,2 +1,2 @@
 # ffmpeg-solus
-package.yml for ffmpeg.
+enables soxr and nonfree.
